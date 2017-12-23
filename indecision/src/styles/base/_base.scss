@@ -1,0 +1,12 @@
+//rem
+html{
+  //16*.625 =10 (base of 10 exp 2.2 rem = 22px)
+  font-size: 62.5%;
+}
+
+body{
+  background: $dark-blue;
+  font-family: Helvetica , Arial , sans-serif;
+  font-size: $m-size;
+
+}
